@@ -1,0 +1,13 @@
+# Smite sentences: one per line. Blank lines and lines starting with # are ignored.
+the moon hung low above the ruined cathedral
+steel rang against steel in the darkness
+the knight raised his sword
+the bells of the old chapel fell silent
+ash drifted over the broken battlements
+a cold wind swept through the empty hall
+the banner burned but did not fall
+light pierced the clouds above the battlefield
+the shield held fast against the storm
+every oath is sworn in blood and iron
+the torches flickered as the gate gave way
+the last candle burned in the abbey tower
